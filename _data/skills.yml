@@ -1,28 +1,28 @@
--   id: javascript
-    descr: javascript    
+-   id: AeroEng
+    descr: Aerospace Engineering
     xp: 6
--   id: css
-    descr: css
+-   id: FDM
+    descr: Flight Dynamics
     color: teal
     xp: 7
--   id: c#
-    descr: c#    
-    xp: 3
--   id: angular
-    descr: angularjs    
-    xp: 8
--   id: java
-    descr: java    
+-   id: AeroCFD
+    descr: Aerodynamics & CFD
+    xp: 6
+-   id: DataAnlysis
+    descr: Data Analysis
+    xp: 6
+-   id: PyMat
+    descr: Python & MATLAB
     xp: 5
--   id: sass
-    descr: sass    
+-   id: Office
+    descr: MS Office & LaTeX
+    xp: 7
+-   id: C
+    descr: C/C++
+    xp: 5
+-   id: MySQL
+    descr: MySQL
     xp: 4
--   id: jquery
-    descr: jquery    
-    xp: 3
--   id: node.js
-    descr: node.js 
-    xp: 2
--   id: php
-    descr: php
+-   id: Linux
+    descr: Linux
     xp: 4
